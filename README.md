@@ -1,2 +1,2 @@
 # Today
-# Today
+A small project to accomplish two main goals: 1, to practice and experiment with web programming skills, and 2, to help myself remember my time living and teaching in Suwon, Gyeonggi-do, South Korea
